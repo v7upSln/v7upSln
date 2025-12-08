@@ -70,10 +70,8 @@
 <!-- Saudi Arabia Riyadh Time & Weather -->
 <div align="center">
   <h3>🌍 Saudi Arabia, Riyadh</h3>
-  
-  ![Riyadh Time](https://img.shields.io/endpoint?url=https://time-badge.v7upsln.workers.dev/?timezone=Asia/Riyadh&label=Current%20Time&color=green)
-  
-  ![Riyadh Weather](https://img.shields.io/endpoint?url=https://weather-badge.v7upsln.workers.dev/?city=Riyadh&label=Weather&color=blue)
+  <p><strong>Current Time:</strong> 11:12 PM, December 08, 2025</p>
+  <p><strong>Weather:</strong> 19.2°C, Clear</p>
 </div>
 
 ###
