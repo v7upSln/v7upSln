@@ -70,8 +70,8 @@
 <!-- Saudi Arabia Riyadh Time & Weather -->
 <div align="center">
   <h3>🌍 Saudi Arabia, Riyadh</h3>
-  <p><strong>Current Time:</strong> 02:40 PM, December 12, 2025</p>
-  <p><strong>Weather:</strong> 23.4°C, Partly Cloudy</p>
+  <p><strong>Current Time:</strong> 03:39 PM, December 12, 2025</p>
+  <p><strong>Weather:</strong> 24.4°C, Partly Cloudy</p>
 </div>
 
 ###
