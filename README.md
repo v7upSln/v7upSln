@@ -28,7 +28,7 @@
 <!-- Saudi Arabia Riyadh Time & Weather -->
 <div align="center">
   <h3>🌍 Saudi Arabia, Riyadh</h3>
-  <p><strong>Current Time:</strong> 01:21 PM, January 16, 2026</p>
+  <p><strong>Current Time:</strong> 01:48 PM, January 16, 2026</p>
   <p><strong>Weather:</strong> 14.1°C, Sunny</p>
 </div>
 
