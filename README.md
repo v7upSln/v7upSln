@@ -28,8 +28,8 @@
 <!-- Saudi Arabia Riyadh Time & Weather -->
 <div align="center">
   <h3>🌍 Saudi Arabia, Riyadh</h3>
-  <p><strong>Current Time:</strong> 10:57 PM, August 13, 2026</p>
-  <p><strong>Weather:</strong> 38.2°C, Partly Cloudy</p>
+  <p><strong>Current Time:</strong> 11:47 PM, August 13, 2026</p>
+  <p><strong>Weather:</strong> 37.4°C, Dust storm</p>
 </div>
 
 ###
